@@ -11,13 +11,13 @@ FinTech-focused technologist pursuing an MSc in Financial Technology at the Univ
 # GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jainam1810&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainam1810&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-jainam1810.vercel.app/api?username=jainam1810&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jainam1810&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainam1810&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-jainam1810.vercel.app/api/top-langs/?username=jainam1810&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
