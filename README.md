@@ -12,7 +12,6 @@ FinTech-focused technologist pursuing an MSc in Financial Technology at the Univ
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jainam1810&show_icons=true&theme=tokyonight" height="170"/>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainam1810&theme=tokyonight" height="170"/>
 </p>
 
