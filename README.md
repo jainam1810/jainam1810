@@ -2,7 +2,7 @@
 FinTech-focused technologist pursuing an MSc in Financial Technology at the University of Exeter (UK), with a strong foundation in Computer Engineering (B.Tech, K.J. Somaiya Institute of Technology). Experienced at the intersection of AI/ML, data science, and blockchain, building systems for forecasting, fraud detection, financial risk analysis, and decentralized applications. Actively seeking AI/ML and blockchain-driven roles in the UK.<br><br>Programming: Python, R, Java, C++, Solidity,  Golang, JavaScript, HTML, CSS, SQL<br>Tools & Frameworks: React, Node.js, Express.js, AWS (S3, DynamoDB), TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Streamlit, Git, Docker, PowerBI, Tableau, Figma, Notion, Agile, Scrum<br>AI & Machine Learning: Linear & Logistic Regression, SVM/SVR, XGBoost, Random Forest, Gradient Boosting, Decision Trees, Autoencoders, RBMs, GMMs, CNNs, RNNs, LSTMs, LLMs, NLP<br>Blockchain: Solidity, Ethereum, Hardhat, Smart Contracts, DApps, Web3.js, ECDSA<br>DSA: Arrays, Linked Lists, HashMaps, Sorting, Searching, Decision Trees
 
 
-## Socials:
+## Socials: -
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jai_varia_19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jainamvaria) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainamvaria1010@gmail.com) 
 
 # Tech Stack:
